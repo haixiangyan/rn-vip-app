@@ -1,7 +1,7 @@
-import { StatusBar } from 'expo-status-bar';
-import { Text, View } from 'react-native';
+import { StatusBar } from "expo-status-bar";
+import { Text, View } from "react-native";
 
-import styles from './styles.scss';
+import styles from "./styles.scss";
 
 function App() {
   return (
